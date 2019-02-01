@@ -1,6 +1,6 @@
 ﻿---
-title:  "개발본부 공통교육 - 개발상식"
-last_modified_at: 2019-01-14T16:01:04-04:00
+title:  "개발상식 - 기본교육"
+last_modified_at: 2019-02-01T16:01:04-04:00
 categories: 
   - Study
 tags:

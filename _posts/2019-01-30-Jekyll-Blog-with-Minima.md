@@ -1,6 +1,6 @@
 ﻿---
 title:  "Jekyll: GitHub Pages 에 블로그 만들기"
-last_modified_at: 2019-01-12T16:01:04-04:00
+last_modified_at: 2019-01-30T16:01:04-04:00
 categories: 
   - Jekyll
 tags:
